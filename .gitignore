@@ -36,3 +36,5 @@ build/
 src/main/resources/application.properties
 
 .metadata/
+
+bin/src/main/resources/application.properties
